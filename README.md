@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Carol Yurley Hernandez Cuervo 
 
 💻 **Analista y desarrolladora de software | Aprendiz SENA – ADSO**
+
+
 📍 Bogotá, Colombia
 
 ---
