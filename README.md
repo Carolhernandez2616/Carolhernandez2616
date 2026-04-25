@@ -71,7 +71,9 @@ en los que participo.
 ## ⚡ Datos sobre mí
 
 • Me gusta estudiar 📚 y ser muy aplicada 💪
+
 • Tengo una mentalidad de mejora constante 🌱✨
+
 • Soy amante del deporte 🏃‍♀️⚽🔥
 
 
