@@ -1,5 +1,5 @@
 
-  <img src="CAROL HERNANDEZ (1) (1).gif" width="700" heigth="200"/>
+  <img src="CAROL HERNANDEZ (1) (1).gif" width="850" heigth="100"/>
   
 
   
