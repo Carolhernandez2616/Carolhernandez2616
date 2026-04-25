@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carol Yurley Hernandez Cuervo 
 <p align="center">
-  <img src="img.png.jpeg" />
+  <img src="Carol.gif" width="700" height"450" />
 </p>
 
 
