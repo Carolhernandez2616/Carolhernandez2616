@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Carol Yurley Hernandez Cuervo 
 
-<p align="center">
+
   <img src="CAROLHERNANDEZ.gif"/>
-</p>
+
 
 
 💻 **Analista y desarrolladora de software | Aprendiz SENA – ADSO**
