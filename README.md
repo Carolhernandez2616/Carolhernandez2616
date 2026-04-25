@@ -1,4 +1,8 @@
 # 👋 ¡Hola! Soy Carol Yurley Hernandez Cuervo 
+<p align="center">
+  <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.unitec.edu/wp-content/uploads/2025/05/02-el-futuro-de-la-ingenieria-en-sistemas-scaled-1.jpg)" />
+</p>
+
 
 💻 **Analista y desarrolladora de software | Aprendiz SENA – ADSO**
 
